@@ -1,7 +1,7 @@
-# SageMaker Inference Auditor & Benchmarker
+# ICB-BERT-Inference-Auditor & Benchmarker
 
 ## 📋 Overview
-**SageMaker Inference Auditor** is a production-grade benchmarking suite designed to validite the performance, latency, and accuracy of AWS SageMaker NLP endpoints. 
+**ICB-BERT-Inference-Auditor** is a production-grade benchmarking suite designed to validite the performance, latency, and accuracy of AWS SageMaker NLP endpoints. 
 
 It is specifically engineered for extraction models (e.g., BERT) that identify entities like **Order Numbers** and **Subtotals** from raw text. The tool operates as a "Test Harness," pulling ground-truth labeled data from S3, running inference against a live endpoint, and generating an executive-level dashboard with statistical visualizations.
 
